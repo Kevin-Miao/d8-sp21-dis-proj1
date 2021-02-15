@@ -16,5 +16,9 @@ Ensure that `conda` or `miniconda` is running correctly.
 
 - Create conda environment: `conda create -n python=3.6 data8`
 - Activate conda environment: `conda activate data8`
-- Install dependencies: `pip install datascience numpy matplotlib`
+- Install dependencies: `pip install jupyter datascience numpy matplotlib`
 - Initialize JupyterNotebook: `jupyter-notebook`
+
+- OR -
+
+- `sh setup.sh`
