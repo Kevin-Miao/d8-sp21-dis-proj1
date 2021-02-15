@@ -19,6 +19,6 @@ Ensure that `conda` or `miniconda` is running correctly.
 - Install dependencies: `pip install jupyter datascience numpy matplotlib`
 - Initialize JupyterNotebook: `jupyter-notebook`
 
-\\- OR -
+\- OR -
 
 - `sh setup.sh`
